@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter basename="/playground">
       <Box p={4}>
         <Flex as="nav" justify="space-between" align="center" mb={6}>
-          <Heading size="md">My Website</Heading>
+          <Heading size="md">Happy Birthday my sweet love ❤️</Heading>
           <Flex gap={4} align="center">
             <Button as={Link} to="/" colorScheme="teal" variant="ghost">
               Home
